@@ -22,11 +22,12 @@ class ReachCX:
         self.citation = citation
         self.cx.start()
         self.data = fries
+        self.cx.add_cx_context("bel", "http://belframework.org/schema/1.0/xbel")
+        self.cx.emit_cx_context()
         self.handle_citation()
         self.handle_sentences()
         self.handle_entities()
         self.handle_events()
-        self.cx.add_cx_context("bel", "http://belframework.org/schema/1.0/xbel")
         self.cx.end()
 
     def handle_citation(self):
@@ -52,15 +53,15 @@ class ReachCX:
         base_term = entity.get('text')
         ft = None
         name = None
-        xrefs = entity.get('xrefs')
-        if xrefs and len(xrefs) > 0:
-            xref = xrefs[0]
+        x_refs = entity.get('xrefs')
+        e_type = entity.get('type')
+        if x_refs and len(x_refs) > 0:
+            x_ref = x_refs[0]
             # base_term = {'name': xref.id, 'prefix': xref.namespace}
-            xtype = xref.get('type')
-            if xtype == 'protein' or xtype == 'gene-or-gene-product':
+            if e_type == 'protein' or e_type == 'gene-or-gene-product':
                 ft = {'f': 'bel:proteinAbundance', 'args': [base_term]}
-                name = 'p(' + entity.text + ')'
-            elif xtype == 'simple-chemical':
+                name = 'p(' + base_term + ')'
+            elif e_type == 'simple-chemical':
                 ft = {'f': 'bel:abundance', 'args': [base_term]}
                 name = 'a(' + base_term + ')'
             else:
@@ -89,19 +90,25 @@ class ReachCX:
     def handle_events(self):
         events = self.data.get('events')
         for event in events.get('frames'):
-            type = event.get('type')
+            event_type = event.get('type')
 
-            if type and type == 'activation':
+            if event_type and event_type == 'activation':
                 subtype = event.get('subtype')
                 if subtype and subtype == 'negative-activation':
-                    interaction = 'decreases'
+                    interaction = 'bel:decreases'
                 else:
-                    interaction = 'increases'
+                    interaction = 'bel:increases'
 
                 source_id = self.get_argument_id('controller', event)
                 target_id = self.get_argument_id('controlled', event)
+
                 if source_id and target_id and interaction:
-                    self.cx.emit_cx_edge(source_id, target_id, interaction)
+                    edge_id = self.cx.emit_cx_edge(source_id, target_id, interaction)
+                    sentence_id = event.get('sentence')
+                    if sentence_id:
+                        support_id = self.reach_sentence_id_to_support_id_map.get(sentence_id)
+                        if support_id:
+                            self.cx.emit_cx_edge_support(edge_id, support_id)
 
     def get_argument_id(self, argument_label, event):
         for argument in event.get('arguments'):

@@ -33,7 +33,6 @@ class CXHelper:
         self.emit_pre_metadata()
 
     def end(self):
-        self.emit_cx_context()
         self.emit_post_metadata()
         self.out.write('\n')
         self.out.write(']')
@@ -138,3 +137,38 @@ class CXHelper:
 
     def emit_cx_function_term(self, function_term):
         self.emit_cx_fragment('functionTerms', function_term)
+
+    def emit_cx_node_citation(self, node_id, citation_id):
+        self.emit_cx_fragment(
+            'nodeCitations',
+                {
+                    "citations": [citation_id],
+                    "po" : [node_id]
+                }
+            )
+
+    def emit_cx_edge_citation(self, edge_id, citation_id):
+        self.emit_cx_fragment(
+            'edgeCitations',{
+                    "citations": [citation_id],
+                    "po" : [edge_id]
+                }
+            )
+
+    def emit_cx_node_support(self, node_id, support_id):
+        self.emit_cx_fragment(
+            'nodeSupports',
+                {
+                    "supports": [support_id],
+                    "po" : [node_id]
+                }
+            )
+
+    def emit_cx_edge_support(self, edge_id, support_id):
+        self.emit_cx_fragment(
+            'edgeSupports',
+                {
+                    "supports": [support_id],
+                    "po" : [edge_id]
+                }
+            )
