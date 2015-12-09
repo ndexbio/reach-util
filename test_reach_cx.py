@@ -6,13 +6,14 @@ from os.path import isfile, isdir, join, abspath, dirname, exists, basename, spl
 import json
 import reach_cx
 
+
 current_directory = dirname(abspath(__file__))
-test_file_path = join(current_directory, "test-files", "fries_example.json")
+test_file_path = join(current_directory, "test-files", "PMC3031885.fries.json")
 file = open(test_file_path, "r")
 data = json.load(file)
 file.close()
 
-output_file_path = join(current_directory, "cx_output", "fries_example.cx")
+output_file_path = join(current_directory, "cx_output", "test.PMC3031885.fries.bel.cx")
 
 out = open(output_file_path, "w")
 

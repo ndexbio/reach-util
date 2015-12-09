@@ -46,7 +46,7 @@ class ReachCX:
             support_id = self.text_to_support_id_map.get(text)
             if not support_id:
                 support_id = self.cx.emit_cx_support(self.cx_citation_id, text)
-            frame_id = sentence.get('frame-id')
+            frame_id = sentence.get('frame_id')
             self.reach_sentence_id_to_support_id_map[frame_id] = support_id
 
     def entity_to_function_term(self, entity):
@@ -84,7 +84,7 @@ class ReachCX:
                 self.entity_name_to_node_id_map[name] = node_id
                 function_term['po'] = node_id
                 function_term_id = self.cx.emit_cx_function_term(function_term)
-            frame_id = entity.get('frame-id')
+            frame_id = entity.get('frame_id')
             self.reach_entity_id_to_node_id_map[frame_id] = node_id
 
     def handle_events(self):
@@ -112,7 +112,7 @@ class ReachCX:
 
     def get_argument_id(self, argument_label, event):
         for argument in event.get('arguments'):
-            label = argument.get('argument-label')
+            label = argument.get('argument_label')
             entity_id = argument.get('arg')
             if label and argument_label == label:
                 node_id = self.reach_entity_id_to_node_id_map.get(entity_id)

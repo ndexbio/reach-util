@@ -1,0 +1,1987 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH
+	xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-12-09T20:09:16Z</responseDate><request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:3031885" metadataPrefix="pmc">http://www.ncbi.nlm.nih.gov/oai/oai.cgi</request><GetRecord><record><header><identifier>oai:pubmedcentral.nih.gov:3031885</identifier><datestamp>2012-01-18</datestamp><setSpec>brjcancer</setSpec><setSpec>pmc-open</setSpec></header><metadata><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://jats.nlm.nih.gov/ns/archiving/1.0/" xsi:schemaLocation="http://jats.nlm.nih.gov/ns/archiving/1.0/ http://jats.nlm.nih.gov/archiving/1.0/xsd/JATS-archivearticle1.xsd" article-type="review-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Br J Cancer</journal-id>
+      <journal-title-group>
+        <journal-title>British Journal of Cancer</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0007-0920</issn>
+      <issn pub-type="epub">1532-1827</issn>
+      <publisher>
+        <publisher-name>Nature Publishing Group</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="accession">PMC3031885</article-id>
+      <article-id pub-id-type="pmcid">PMC3031885</article-id>
+      <article-id pub-id-type="pmc-uid">3031885</article-id>
+      <article-id pub-id-type="pii">6606009</article-id>
+      <article-id pub-id-type="doi">10.1038/sj.bjc.6606009</article-id>
+      <article-id pub-id-type="pmid">21081934</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Minireview</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ras and Raf pathways in epidermis development and carcinogenesis</article-title>
+        <alt-title alt-title-type="running">Ras and Raf in the epidermis</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kern</surname>
+            <given-names>F</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Niault</surname>
+            <given-names>T</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="author-notes" rid="note1">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Baccarini</surname>
+            <given-names>M</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="corresp" rid="caf1">*</xref>
+        </contrib>
+        <aff id="aff1"><label>1</label><institution>University of Vienna, Center for Molecular Biology, Max F. Perutz Laboratories, Doktor-Bohr-Gasse 9</institution>, A-1030 Vienna, <country>Austria</country></aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="caf1"><label>*</label>E-mail: <email>manuela.baccarini@univie.ac.at</email></corresp>
+        <fn fn-type="present-address" id="note1">
+          <label>2</label>
+          <p>Current address: Microbes and Host Barriers Group, Inserm Avenir U604, Institut Pasteur, 25 Rue du Docteur Roux, 75724 Paris Cedex 15, France</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <day>18</day>
+        <month>01</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>11</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>104</volume>
+      <issue>2</issue>
+      <fpage>229</fpage>
+      <lpage>234</lpage>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>07</month>
+          <year>2010</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>20</day>
+          <month>10</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>10</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright Â© 2011 Cancer Research UK</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <copyright-holder>Cancer Research UK</copyright-holder>
+      </permissions>
+      <abstract>
+        <p>The epidermis is the outermost layer of the body and protects it from environmental insults. This crucial function is sustained by a continuous process of self-renewal involving the carefully balanced proliferation and differentiation of progenitor cells constantly replacing the mature cells at the surface of the epidermis. Genetic changes in the signalling pathways controlling keratinocyte proliferation and differentiation disrupt this balance and lead to pathological changes including carcinogenesis. This review discusses the role of Ras, an oncogene critically involved in the development of skin neoplasia, and its downstream effector Raf in epidermal homeostasis and tumourigenesis. In particular, we will focus on the recently established role of Raf-1 as the decisive element that, by restraining keratinocyte differentiation, allows the development and maintenance of Ras-driven tumours.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Raf kinases</kwd>
+        <kwd>Ras pathway</kwd>
+        <kwd>epidermal development</kwd>
+        <kwd>carcinogenesis</kwd>
+        <kwd>differentiation therapy</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>The epidermis is the outer layer of the skin, a stratified squamous epithelium that forms a protective barrier against environmental insults and prevents body dehydration. The epidermis is primarily composed of keratinocytes in which pigment cells (melanocytes), immune cells (Langerhans cells and T cells) and nerve-ending cells (Merkel cells) are embedded. Invaginating into the dermis, the epidermis gives rise to various appendages: the hair, produced by the hair follicles, the sebaceous glands that lubricate the skin and the sweat glands that extrude water and salts (<xref ref-type="fig" rid="fig1">Figure 1A</xref>). The epidermis is separated from the dermis by the basement membrane, which is rich in extracellular matrix, and is organised into four major layers: the <italic>stratum basale</italic>, the <italic>stratum spinosum</italic>, the <italic>stratum granulosum</italic> and the <italic>stratum corneum</italic>. The <italic>stratum basale</italic> contains the keratinocyte progenitors required for skin renewal. These can either divide to generate further progenitor or give rise to suprabasal keratinocytes (reviewed in <xref ref-type="bibr" rid="bib2">Blanpain and Fuchs, 2009</xref>). As they progress to the <italic>stratum spinosum</italic> and to the <italic>stratum granulosum</italic>, the keratinocytes produce the network of keratin filaments anchored in intercellular junctions that provide structural support to the skin; the cells flatten and exocytose lamellar granules containing the precursors of the lipids that contribute to the <italic>stratum corneum</italic> barrier. The <italic>stratum corneum</italic> contains the last stage of differentiation, the enucleated corneocytes, which are continuously sloughed off and must be replaced by differentiation of the lower layers (<xref ref-type="fig" rid="fig1">Figure 1B</xref>).</p>
+    <p>To preserve the integrity of the epidermal barrier, the epidermis turns over throughout life. Alterations in this process, such as keratinocyte proliferation/differentiation defects, or inflammation can lead to cancer or skin barrier defects; thus, the many signalling pathways involved in epidermal homeostasis must be tightly controlled.</p>
+    <sec>
+      <title>Ras pathways in the epidermis</title>
+      <p>The epidermal growth factor receptor (EGFR) is a critical regulator of epidermal homeostasis (<xref ref-type="fig" rid="fig1">Figure 1C</xref>). Binding of EGFR to its ligands, EGF, TGF-<italic>Î±</italic> and IGF, promotes keratinocyte proliferation; in contrast, inhibitory ligands of EGFR, Lrig1 and Mig6 are involved in maintaining stem cell quiescence, as ablation of either protein leads to hyperproliferation of keratinocytes (<xref ref-type="bibr" rid="bib13">Fuchs, 2009</xref>). Downstream of EGFR, activation of Ras induces keratinocyte proliferation and inhibits differentiation (<xref ref-type="bibr" rid="bib22">Khavari and Rinn, 2007</xref>). Ras isoforms are small G-nucleotide-binding proteins that oscillate between a GDP-bound, inactive state, and a GTP-bound state in which they can bind and activate their downstream effectors. In growth factor signalling, the transition between the inactive and the activated state is engendered by the binding of a guanine nucleotide exchange factor (GEF) that displaces GDP. Once GDP is displaced, GTP, whose intracellular concentration is ten-fold higher than that of GDP, will bind to Ras, converting it into an active form. Active Ras will then proceed to stimulate a number of effectors, including the prominent classical effectors phosphoinositide-3 kinase (PI-3K) and Raf; Ral-GDS and Tiam-1, exchange factors leading to the activation of small GTPases Ral and Rac; and several other less well-defined effectors (<xref ref-type="fig" rid="fig1">Figure 1C</xref>; <xref ref-type="bibr" rid="bib21">Karnoub and Weinberg, 2008</xref>). These molecules control aspects of keratinocyte biology ranging from the regulation of proliferation, traditionally attributed to the Raf/MEK/ERK pathway (see below), or of survival, linked to the activation of PI-3K and its downstream target Akt (<xref ref-type="bibr" rid="bib39">Sibilia <italic>et al</italic>, 2000</xref>; <xref ref-type="bibr" rid="bib6">Calautti <italic>et al</italic>, 2005</xref>) and Ral-GDS (<xref ref-type="bibr" rid="bib16">Gonzalez-Garcia <italic>et al</italic>, 2005</xref>), to the establishment of cellâcell adhesion, polarity and redox balance, controlled by Tiam1 (<xref ref-type="bibr" rid="bib26">Mertens <italic>et al</italic>, 2005</xref>; <xref ref-type="bibr" rid="bib32">Pegtel <italic>et al</italic>, 2007</xref>; <xref ref-type="bibr" rid="bib35">Rygiel <italic>et al</italic>, 2008</xref>). Thus, activation of the Ras pathway by growth factors must be kept under tight control to provide just the right balance of proliferation/differentiation signals required for epidermal homeostasis.</p>
+      <p>Adhesion molecules, such as integrins and cadherins, have a crucial role in the modulation of growth factor signalling in the epidermis. In general, integrin activation supports proliferation, whereas cadherins can both support or inhibit it (<xref ref-type="fig" rid="fig1">Figure 1C</xref>); E-cadherin and desmosomal cadherins, for instance, modulate the EGF response to signal growth arrest (<xref ref-type="bibr" rid="bib27">Muller <italic>et al</italic>, 2008</xref>). In line with its crucial role in proliferative signalling, the Ras pathway is activated by integrins (<xref ref-type="bibr" rid="bib20">Janes and Watt, 2006</xref>) and negatively regulated by cellâcell adhesion: ablation of either <italic>Î±</italic>-catenin or p120-catenin in the epidermis causes a reduction of adherens junctions, which does not affect skin barrier and intercellular adhesion but leads to hyperplasia and to sustained activation of the Ras/ERK pathway (<xref ref-type="bibr" rid="bib40">Vasioukhin <italic>et al</italic>, 2001</xref>; <xref ref-type="bibr" rid="bib33">Perez-Moreno <italic>et al</italic>, 2006</xref>).</p>
+      <p>Activating Ras mutations stabilise this signalling-competent, GTP-bound state. These mutations are frequent in human cancer (33% higher frequency in epithelial cancers and melanoma; <ext-link ext-link-type="uri" xlink:href="http://www.sanger.ac.uk/genetics/CGP/cosmic">http://www.sanger.ac.uk/genetics/CGP/cosmic</ext-link>). The number of tumours (particularly squamous cell carcinomas) containing GTP-bound Ras is however much higher, likely owing to the autocrine/paracrine activation and/or to mutation in receptor tyrosine kinases such as the EGFR (<xref ref-type="bibr" rid="bib22">Khavari and Rinn, 2007</xref>). Expression of constitutively active Ras mutants in the basal layer of mouse epidermis induces proliferation and inhibits differentiation (<xref ref-type="bibr" rid="bib41">Vitale-Cross <italic>et al</italic>, 2004</xref>; <xref ref-type="bibr" rid="bib22">Khavari and Rinn, 2007</xref>); the activation of endogenous Ras by the transgenic expression of the Ras GEFs SOS (<xref ref-type="bibr" rid="bib39">Sibilia <italic>et al</italic>, 2000</xref>) and Rasgrp1 (<xref ref-type="bibr" rid="bib31">Oki-Idouchi and Lorenzo, 2007</xref>) in the same epidermal compartment produces similar phenotypes. Consistent with an essential role of Ras in skin tumourigenesis, H-Ras ablation impairs tumour development in mouse models of chemical carcinogenesis (<xref ref-type="bibr" rid="bib19">Ise <italic>et al</italic>, 2000</xref>).</p>
+      <p>The consequences of Ras activation in the epidermis can be mimicked, at least in part, by the expression of gain-of-function mutants of Ras downstream effectors. Constitutively active Akt mutants promote proliferation in skin (<xref ref-type="bibr" rid="bib28">Murayama <italic>et al</italic>, 2007</xref>); conversely, the knock-in of a PI-3K mutant incapable of binding to Ras reduces tumour load in a chemical model of epidermal carcinogenesis (<xref ref-type="bibr" rid="bib17">Gupta <italic>et al</italic>, 2007</xref>). Ablation of other Ras targets such as Tiam1 (<xref ref-type="bibr" rid="bib24">Malliri <italic>et al</italic>, 2002</xref>) and its downstream target Rac1 (<xref ref-type="bibr" rid="bib42">Wang <italic>et al</italic>, 2010</xref>), Ral-GDS (<xref ref-type="bibr" rid="bib16">Gonzalez-Garcia <italic>et al</italic>, 2005</xref>) and PLCepsilon (<xref ref-type="bibr" rid="bib1">Bai <italic>et al</italic>, 2004</xref>) has similar effects, but only in the case of Rac1 it is clear that the phenotype is cell autonomous.</p>
+    </sec>
+    <sec>
+      <title>Raf pathways in the epidermis</title>
+      <p>The Raf/MEK/ERK cascade is the longest-studied and probably the best-described Ras effector pathway. The term âcascade' already suggests the chain reaction that propels the signal, in the form of sequential phosphorylation, from an entry point to an intermediate kinase and finally to ERK, the business end of the pathway. ERK stimulation results in the phosphorylation of transcription factors, structural proteins and metabolic enzymes, and ultimately engenders both short- and long-term changes in cellular behaviour. This basic three-tiered module is robust and plastic at the same time, allowing not only the amplification but also the diversification and temporal modulation of the signal at each and every node; in mammals, it is found in four mitogen-activated protein kinase (MAPK) pathways that contribute to implementing biological outcomes as diverse as proliferation, apoptosis, differentiation, motility and response to stress and cytokines.</p>
+      <p>One outstanding feature of the Raf/MEK/ERK pathway in mammals is redundancy. Mammals have three Raf isoforms (A-Raf, B-Raf and Raf-1, also known as C-Raf), two MEK and two ERK isoforms. All three Rafs can bind to Ras and phosphorylate MEK, although B-Raf is much more efficient than the other two and is necessary for ERK activation <italic>in vivo</italic> (reviewed in <xref ref-type="bibr" rid="bib14">Galabova-Kovacs <italic>et al</italic>, 2006a</xref>; <xref ref-type="bibr" rid="bib30">Niault and Baccarini, 2010</xref>). Both MEKs can phosphorylate ERK1/2; and whether ERK1/2 have non-redundant functions or not is still unclear (see below).</p>
+      <p>Consistent with its prominent role as a MEK kinase, B-Raf is the component of the ERK pathway most often mutated in human tumours, with a particularly high frequency (43%) in human melanoma. The most frequent B-Raf mutation, V600E, results in constitutive catalytic activity and MEK/ERK activation. Recently, a kinase drug selectively inhibiting B-Raf V600E has achieved an unprecedented response rate of 80% in phase 1 clinical trials involving metastatic melanoma patients, opening new therapeutic avenues for this deadly disease (<xref ref-type="bibr" rid="bib3">Bollag <italic>et al</italic>, 2010</xref>; <xref ref-type="bibr" rid="bib12">Flaherty <italic>et al</italic>, 2010</xref>). Less frequent BRAF mutations reduce intrinsic catalytic activity but drive MEK/ERK activation by stimulating the formation of B-Raf/Raf-1 heterodimers in which mutant B-Raf activates wild-type Raf-1 in trans (reviewed in <xref ref-type="bibr" rid="bib30">Niault and Baccarini, 2010</xref>; <xref ref-type="bibr" rid="bib44">Wimmer and Baccarini, 2010</xref>).</p>
+      <p>Unlike B-Raf, Raf-1 is infrequently mutated in human cancer (overall frequency of 1% <ext-link ext-link-type="uri" xlink:href="http://www.sanger.ac.uk/genetics/CGP/cosmic">http://www.sanger.ac.uk/genetics/CGP/cosmic</ext-link>). The rare mutations detected in human cancer cell lines and in patients with therapy-related acute myeloid leukaemia do not drive tumourigenesis <italic>per se</italic>, but can do so upon somatic loss of a negative regulator of Raf-mediated MEK/ERK activation, the Raf kinase inhibitory protein RKIP (<xref ref-type="bibr" rid="bib30">Niault and Baccarini, 2010</xref>). Interestingly, RKIP promotes differentiation of human keratinocytes (<xref ref-type="bibr" rid="bib45">Yamazaki <italic>et al</italic>, 2004</xref>), and both RKIP and B-Raf are downregulated in human SCC (<xref ref-type="bibr" rid="bib46">Zaravinos <italic>et al</italic>, 2009</xref>), whereas Raf-1 is overexpressed (<xref ref-type="bibr" rid="bib34">Riva <italic>et al</italic>, 1995</xref>). Mutations or overexpression of MEK or ERK in human SCC have not been reported.</p>
+      <p>The data summarised above suggest that Raf-1 is an important player in the development of human SCC. Support for this idea came in the unexpected form of recent findings concerning small-molecule inhibitors of Raf. These compounds, some of which are already being used in the clinic, efficiently inhibit MEK/ERK activation in cells harbouring the B-Raf V600E mutation (<xref ref-type="bibr" rid="bib3">Bollag <italic>et al</italic>, 2010</xref>; <xref ref-type="bibr" rid="bib12">Flaherty <italic>et al</italic>, 2010</xref>), but can activate the ERK pathway to different extents in normal cells and in cells expressing Ras mutations. At the molecular level, the inhibitors promote the formation of dimers in which wild-type Raf-1 is activated in trans (reviewed in <xref ref-type="bibr" rid="bib5">Brower, 2010</xref>; <xref ref-type="bibr" rid="bib7">Cichowski and Janne, 2010</xref>; <xref ref-type="bibr" rid="bib44">Wimmer and Baccarini, 2010</xref>). Before these reports, potentially deleterious effects of Raf inhibitors because of ERK inhibition in normal cells were expected to limit their clinical use. In stark contrast, these studies now predict that these inhibitors may be dangerous because they may activate Raf-1 and MEK/ERK in B-Raf wild-type cells prone to deregulated proliferation because of other mutations. Intriguingly, although the inhibitors are administered systemically, keratoacanthomas and SCC <italic>in situ</italic> develop in patients treated with Raf inhibitors (<xref ref-type="bibr" rid="bib5">Brower, 2010</xref>; <xref ref-type="bibr" rid="bib7">Cichowski and Janne, 2010</xref>; <xref ref-type="bibr" rid="bib44">Wimmer and Baccarini, 2010</xref>), underscoring the connection between Raf-1 activation and epidermal proliferation and tumourigenesis.</p>
+      <p>The role of the Raf/MEK/ERK pathway in epidermal proliferation has been clearly established in animal models, in which inducible activation of Raf or MEK in the epidermis results in massive cutaneous hyperplasia and reduced differentiation (<xref ref-type="bibr" rid="bib22">Khavari and Rinn, 2007</xref>). In apparent contrast, knockout of B-Raf (<xref ref-type="bibr" rid="bib15">Galabova-Kovacs <italic>et al</italic>, 2006b</xref>), Raf-1 (<xref ref-type="bibr" rid="bib11">Ehrenreiter <italic>et al</italic>, 2005</xref>), MEK1, MEK2 (<xref ref-type="bibr" rid="bib37">Scholl <italic>et al</italic>, 2007</xref>), ERK1 and ERK2 (<xref ref-type="bibr" rid="bib9">Dumesic <italic>et al</italic>, 2009</xref>) has no effect on epidermis development and/or homeostasis. In the MEK and ERK knockouts, this lack of phenotype may result from functional redundancy within the pathway. Indeed, epidermis-restricted compound MEK1/MEK2 knockout causes severe barrier function defects and marked epidermis hypoplasia leading to perinatal death (<xref ref-type="bibr" rid="bib37">Scholl <italic>et al</italic>, 2007</xref>); and simultaneous ERK1/ERK2 ablation inhibits keratinocyte division (<xref ref-type="bibr" rid="bib9">Dumesic <italic>et al</italic>, 2009</xref>). MEK1/2 gene dosage also appears to be the rate-limiting factor in the hyperplastic response of mouse epidermis to activated Ras (<xref ref-type="bibr" rid="bib36">Scholl <italic>et al</italic>, 2009a</xref>); in contrast, however, MEK1 (but not MEK2) and ERK1 are required for full-fledged chemical carcinogenesis (<xref ref-type="bibr" rid="bib4">Bourcier <italic>et al</italic>, 2006</xref>; <xref ref-type="bibr" rid="bib38">Scholl <italic>et al</italic>, 2009b</xref>). Together, these results confirm the role of the ERK pathway in promoting proliferation and restraining differentiation in the epidermis.</p>
+      <p>However, recent conditional gene ablation experiments have revealed that one of the Raf kinases has ERK-independent roles in keratinocyte biology and tumourigenesis. As mentioned above, mice harbouring epidermis-restricted Raf-1 ablation do not show any major anomalies, with the exception of a curly fur and whiskers that subside after the first hair cycle. Wound healing, however, is delayed in these mice, and their keratinocytes show defects in adhesion and migration (<xref ref-type="bibr" rid="bib11">Ehrenreiter <italic>et al</italic>, 2005</xref>). These phenotypes do not correlate with defects in ERK phosphorylation; rather, we have been able to trace them to the cytoskeleton-based Rho effector Rok-<italic>Î±</italic>, which is hyperactive in Raf-1-deficient cells (<xref ref-type="bibr" rid="bib11">Ehrenreiter <italic>et al</italic>, 2005</xref>, <xref ref-type="bibr" rid="bib10">2009</xref>; <xref ref-type="bibr" rid="bib29">Niault <italic>et al</italic>, 2009</xref>).</p>
+      <p>Although these data do not exclude that Raf-1 may have function(s) connected with its ability to phosphorylate MEK or other substrates, they do indicate that the essential role of Raf-1, at least in the epidermis, is independent of its kinase activity. But what happens if one stresses the system, for instance, by inducing tumourigenesis <italic>in vivo</italic>? We have answered this question by combining a chemical and a genetic tumourigenesis protocol with epidermis-restricted Raf-1 ablation in mice. Both models rely on the activation of Ras, caused by mutations in the DMBA/TPA chemical carcinogenesis model (<xref ref-type="bibr" rid="bib19">Ise <italic>et al</italic>, 2000</xref>) or by tethering the Ras activator SOS to the membrane of basal keratinocytes (<xref ref-type="bibr" rid="bib39">Sibilia <italic>et al</italic>, 2000</xref>); this results in the constitutive activation of endogenous Ras, observed more frequently than Ras mutations in human SCC (<xref ref-type="bibr" rid="bib8">Dajee <italic>et al</italic>, 2003</xref>). The results were striking: Raf-1-deficient epidermis was completely refractory to tumour formation in both models; in addition, using the genetic model we could show that Raf-1 ablation enforces complete, rapid regression of established lesions that never recur, although Ras activation persists throughout the life of the animals (<xref ref-type="fig" rid="fig2">Figure 2</xref>; <xref ref-type="bibr" rid="bib10">Ehrenreiter <italic>et al</italic>, 2009</xref>). Tumour regression is characterised by massive, runaway differentiation, which was a surprise in view of the well-established role of Raf-1 in proliferation and of its essential antiapoptotic function in other cell types (<xref ref-type="bibr" rid="bib14">Galabova-Kovacs <italic>et al</italic>, 2006a</xref>). These data identify Raf-1 as the single key Ras effector absolutely required for both development and maintenance of Ras-driven tumours <italic>in vivo</italic>. They evoke the concept of ânon-oncogene addiction', intended as the absolute dependence of cancer cells on a non-mutated component of a signalling pathway to prevent system failure in the form of apoptosis or, as in this case, differentiation. Downstream of Ras, activated Raf-1 binds to Rok-<italic>Î±</italic>, reducing its activity (<xref ref-type="fig" rid="fig2">Figure 2</xref>); Rok-<italic>Î±</italic>, in turn, has been previously implicated in keratinocyte differentiation (<xref ref-type="bibr" rid="bib25">McMullan <italic>et al</italic>, 2003</xref>) and, via the phosphorylation of Cofilin, can prevent the activation of the STAT3/Myc axis (<xref ref-type="bibr" rid="bib18">Honma <italic>et al</italic>, 2006</xref>).</p>
+      <p>The relevance of the Raf-1/Rok-<italic>Î±</italic> interaction for tumourigenesis is illustrated by the fact that Ras-driven dedifferentiation, STAT3 phosphorylation and Myc expression occur both in wild-type and in Raf-1-deficient epidermis treated with a chemical Rok inhibitor (<xref ref-type="bibr" rid="bib10">Ehrenreiter <italic>et al</italic>, 2009</xref>). These data establish Raf-1 as an endogenous Rok-<italic>Î±</italic> inhibitor operating downstream of Ras to regulate keratinocyte differentiation, and imply that caution is in order when using Rok inhibitors, especially in the treatment of Ras-driven tumours (<xref ref-type="fig" rid="fig2">Figure 2</xref>).</p>
+      <p>Rok-<italic>Î±</italic> inhibition by Raf-1 requires physical interaction between the two proteins. In growth factor-stimulated or Ras-transformed cells, the kinase domain of Rok-<italic>Î±</italic> interacts with, and is inhibited by, the regulatory domain of Raf-1, which is structurally very similar to Rok-<italic>Î±</italic>'s own autoinhibitory domain (<xref ref-type="bibr" rid="bib29">Niault <italic>et al</italic>, 2009</xref>). This kind of âinhibition in trans' has never been reported before, and represents a new paradigm of kinase regulation and pathway cross-talk.</p>
+      <p>Our results have implications for future therapeutic strategies targeting the Raf-1/Rok-<italic>Î±</italic> interaction, for instance, by silencing the Raf-1 gene or by using small-molecule inhibitors to disrupt the complex. The predicted outcome of such interventions is an increase in Rok-<italic>Î±</italic> activity, resulting in turn in epithelial cell differentiation. The success of these therapies, however, might be highly context dependent. We must bear in mind that Rok-<italic>Î±</italic> was found upregulated in human SSC samples, and that its overexpression confers features of malignancy to human tumours in mouse xenograft models (<xref ref-type="bibr" rid="bib23">Lefort <italic>et al</italic>, 2007</xref>). It is possible that treatments aimed at increasing Rok-<italic>Î±</italic> activation might be beneficial only in the context of epithelial tumours driven by Ras activation. Alternatively, tumour cells might accumulate mutations, downstream of Rok-<italic>Î±</italic> or in other pathways, which enable them to tolerate high Rok-<italic>Î±</italic> activity without undergoing differentiation. Thus, as in the case of other approaches, the success of a Rok-<italic>Î±</italic> activation therapy might depend both on the type of tumour and on the stage of the tumour at the time of intervention.</p>
+    </sec>
+    <sec>
+      <title>Conclusions</title>
+      <p>The evidence summarised above is consistent with a pivotal role of Ras and its downstream effectors in epidermal tumourigenesis. Ras effectors have been reported to induce proliferation and prevent apoptosis; recently, the differentiation block enforced by Raf-1-mediated Rok-<italic>Î±</italic> has been added to the potentially âdruggable' events required for Ras-driven tumourigenesis. The prediction of our <italic>in vivo</italic> work is that freeing Rok-<italic>Î±</italic> from its interaction with Raf-1, for instance, by silencing the Raf-1 gene or by using small-molecule inhibitors aimed to disrupt the complex, will increase Rok-<italic>Î±</italic> activity and result in epithelial cell differentiation, at least within a window of opportunity. Such a strategy should be useful in the co-therapy of Ras-driven epidermis tumours, much in the way that differentiation therapy has radically increased the success rate of leukaemia treatment (<xref ref-type="bibr" rid="bib43">Wang and Chen, 2008</xref>).</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="bib1">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bai</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Edamatsu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Saito</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Satoh</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kataoka</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Crucial role of phospholipase Cepsilon in chemical carcinogen-induced skin tumor development</article-title>
+          <source>Cancer Res</source>
+          <volume>64</volume>
+          <fpage>8808</fpage>
+          <lpage>8810</lpage>
+          <pub-id pub-id-type="pmid">15604236</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib2">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blanpain</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Fuchs</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Epidermal homeostasis: a balancing act of stem cells in the skin</article-title>
+          <source>Nat Rev Mol Cell Biol</source>
+          <volume>10</volume>
+          <fpage>207</fpage>
+          <lpage>217</lpage>
+          <pub-id pub-id-type="pmid">19209183</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib3">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bollag</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Hirth</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ibrahim</surname>
+              <given-names>PN</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Spevak</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Habets</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Burton</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Tsang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>West</surname>
+              <given-names>BL</given-names>
+            </name>
+            <name>
+              <surname>Powell</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Shellooe</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Marimuthu</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>KY</given-names>
+            </name>
+            <name>
+              <surname>Artis</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Schlessinger</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Higgins</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Iyer</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>D'Andrea</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Koehler</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Stumm</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>PS</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Grippo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Puzanov</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>KB</given-names>
+            </name>
+            <name>
+              <surname>Ribas</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>McArthur</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Sosman</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Chapman</surname>
+              <given-names>PB</given-names>
+            </name>
+            <name>
+              <surname>Flaherty</surname>
+              <given-names>KT</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Nathanson</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Nolop</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Clinical efficacy of a RAF inhibitor needs broad target blockade in BRAF-mutant melanoma</article-title>
+          <source>Nature</source>
+          <volume>467</volume>
+          <fpage>596</fpage>
+          <lpage>599</lpage>
+          <pub-id pub-id-type="pmid">20823850</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib4">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bourcier</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Jacquel</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hess</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Peyrottes</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Angel</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Hofman</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Auberger</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Pouyssegur</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pages</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>p44 mitogen-activated protein kinase (extracellular signal-regulated kinase 1)-dependent signaling contributes to epithelial skin carcinogenesis</article-title>
+          <source>Cancer Res</source>
+          <volume>66</volume>
+          <fpage>2700</fpage>
+          <lpage>2707</lpage>
+          <pub-id pub-id-type="pmid">16510590</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib5">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brower</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>BRAF inhibitors: research accelerates in wake of positive findings</article-title>
+          <source>J Natl Cancer Inst</source>
+          <volume>102</volume>
+          <fpage>214</fpage>
+          <lpage>215</lpage>
+          <pub-id pub-id-type="pmid">20145213</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib6">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Calautti</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Saoncella</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Brissette</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Goetinck</surname>
+              <given-names>PF</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Phosphoinositide 3-kinase signaling to Akt promotes keratinocyte differentiation versus death</article-title>
+          <source>J Biol Chem</source>
+          <volume>280</volume>
+          <fpage>32856</fpage>
+          <lpage>32865</lpage>
+          <pub-id pub-id-type="pmid">16036919</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib7">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cichowski</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Janne</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Drug discovery: inhibitors that activate</article-title>
+          <source>Nature</source>
+          <volume>464</volume>
+          <fpage>358</fpage>
+          <lpage>359</lpage>
+          <pub-id pub-id-type="pmid">20237552</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib8">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dajee</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lazarov</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>JY</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Green</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Marinkovich</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Tao</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Kubo</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Khavari</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>NF-kappaB blockade and oncogenic Ras trigger invasive human epidermal neoplasia</article-title>
+          <source>Nature</source>
+          <volume>421</volume>
+          <fpage>639</fpage>
+          <lpage>643</lpage>
+          <pub-id pub-id-type="pmid">12571598</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib9">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dumesic</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Scholl</surname>
+              <given-names>FA</given-names>
+            </name>
+            <name>
+              <surname>Barragan</surname>
+              <given-names>DI</given-names>
+            </name>
+            <name>
+              <surname>Khavari</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Erk1/2 MAP kinases are required for epidermal G2/M progression</article-title>
+          <source>J Cell Biol</source>
+          <volume>185</volume>
+          <fpage>409</fpage>
+          <lpage>422</lpage>
+          <pub-id pub-id-type="pmid">19414607</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib10">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ehrenreiter</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kern</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Velamoor</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Meissl</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Galabova-Kovacs</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Sibilia</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Baccarini</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Raf-1 addiction in Ras-induced skin carcinogenesis</article-title>
+          <source>Cancer Cell</source>
+          <volume>16</volume>
+          <fpage>149</fpage>
+          <lpage>160</lpage>
+          <pub-id pub-id-type="pmid">19647225</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib11">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ehrenreiter</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Piazzolla</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Velamoor</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Sobczak</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Small</surname>
+              <given-names>JV</given-names>
+            </name>
+            <name>
+              <surname>Takeda</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Leung</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Baccarini</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Raf-1 regulates Rho signaling and cell migration</article-title>
+          <source>J Cell Biol</source>
+          <volume>168</volume>
+          <fpage>955</fpage>
+          <lpage>964</lpage>
+          <pub-id pub-id-type="pmid">15753127</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib12">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Flaherty</surname>
+              <given-names>KT</given-names>
+            </name>
+            <name>
+              <surname>Puzanov</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>KB</given-names>
+            </name>
+            <name>
+              <surname>Ribas</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>McArthur</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Sosman</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>O'Dwyer</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Grippo</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Nolop</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Chapman</surname>
+              <given-names>PB</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Inhibition of mutated, activated BRAF in metastatic melanoma</article-title>
+          <source>N Engl J Med</source>
+          <volume>363</volume>
+          <fpage>809</fpage>
+          <lpage>819</lpage>
+          <pub-id pub-id-type="pmid">20818844</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib13">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fuchs</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Finding one's niche in the skin</article-title>
+          <source>Cell Stem Cell</source>
+          <volume>4</volume>
+          <fpage>499</fpage>
+          <lpage>502</lpage>
+          <pub-id pub-id-type="pmid">19497277</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib14">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Galabova-Kovacs</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kolbus</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Matzen</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Meissl</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Piazzolla</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Rubiolo</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Steinitz</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Baccarini</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2006a</year>
+          <article-title>ERK and beyond: insights from B-Raf and Raf-1 conditional knockouts</article-title>
+          <source>Cell Cycle</source>
+          <volume>5</volume>
+          <fpage>1514</fpage>
+          <lpage>1518</lpage>
+          <pub-id pub-id-type="pmid">16861903</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib15">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Galabova-Kovacs</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Matzen</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Piazzolla</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Meissl</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Plyushch</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>AP</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Baccarini</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2006b</year>
+          <article-title>Essential role of B-Raf in ERK activation during extraembryonic development</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <volume>103</volume>
+          <fpage>1325</fpage>
+          <lpage>1330</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="bib16">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gonzalez-Garcia</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Pritchard</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Paterson</surname>
+              <given-names>HF</given-names>
+            </name>
+            <name>
+              <surname>Mavria</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Stamp</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Marshall</surname>
+              <given-names>CJ</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>RalGDS is required for tumor formation in a model of skin carcinogenesis</article-title>
+          <source>Cancer Cell</source>
+          <volume>7</volume>
+          <fpage>219</fpage>
+          <lpage>226</lpage>
+          <pub-id pub-id-type="pmid">15766660</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib17">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ramjaun</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Haiko</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Warne</surname>
+              <given-names>PH</given-names>
+            </name>
+            <name>
+              <surname>Nicke</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Nye</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Stamp</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Alitalo</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Downward</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Binding of ras to phosphoinositide 3-kinase p110alpha is required for ras-driven tumorigenesis in mice</article-title>
+          <source>Cell</source>
+          <volume>129</volume>
+          <fpage>957</fpage>
+          <lpage>968</lpage>
+          <pub-id pub-id-type="pmid">17540175</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib18">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Honma</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Benitah</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Watt</surname>
+              <given-names>FM</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Role of LIM kinases in normal and psoriatic human epidermis</article-title>
+          <source>Mol Biol Cell</source>
+          <volume>17</volume>
+          <fpage>1888</fpage>
+          <lpage>1896</lpage>
+          <pub-id pub-id-type="pmid">16467374</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib19">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ise</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Nakamura</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Nakao</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Shimizu</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Harada</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ichise</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Miyoshi</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Gondo</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Ishikawa</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Aiba</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Katsuki</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Targeted deletion of the H-ras gene decreases tumor formation in mouse skin carcinogenesis</article-title>
+          <source>Oncogene</source>
+          <volume>19</volume>
+          <fpage>2951</fpage>
+          <lpage>2956</lpage>
+          <pub-id pub-id-type="pmid">10871846</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib20">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Janes</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Watt</surname>
+              <given-names>FM</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>New roles for integrins in squamous-cell carcinoma</article-title>
+          <source>Nat Rev Cancer</source>
+          <volume>6</volume>
+          <fpage>175</fpage>
+          <lpage>183</lpage>
+          <pub-id pub-id-type="pmid">16498442</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib21">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karnoub</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Weinberg</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Ras oncogenes: split personalities</article-title>
+          <source>Nat Rev Mol Cell Biol</source>
+          <volume>9</volume>
+          <fpage>517</fpage>
+          <lpage>531</lpage>
+          <pub-id pub-id-type="pmid">18568040</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib22">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khavari</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Rinn</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Ras/Erk MAPK signaling in epidermal homeostasis and neoplasia</article-title>
+          <source>Cell Cycle</source>
+          <volume>6</volume>
+          <fpage>2928</fpage>
+          <lpage>2931</lpage>
+          <pub-id pub-id-type="pmid">18000402</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib23">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lefort</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Mandinova</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ostano</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Kolev</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Calpini</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Kolfschoten</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Devgan</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Lieb</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Raffoul</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Hohl</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Neel</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Garlick</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Chiorino</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Dotto</surname>
+              <given-names>GP</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Notch1 is a p53 target gene involved in human keratinocyte tumor suppression through negative regulation of ROCK1/2 and MRCKalpha kinases</article-title>
+          <source>Genes Dev</source>
+          <volume>21</volume>
+          <fpage>562</fpage>
+          <lpage>577</lpage>
+          <pub-id pub-id-type="pmid">17344417</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib24">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malliri</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>van der Kammen</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Clark</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>van der Valk</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Michiels</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Collard</surname>
+              <given-names>JG</given-names>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <article-title>Mice deficient in the Rac activator Tiam1 are resistant to Ras-induced skin tumours</article-title>
+          <source>Nature</source>
+          <volume>417</volume>
+          <fpage>867</fpage>
+          <lpage>871</lpage>
+          <pub-id pub-id-type="pmid">12075356</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib25">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McMullan</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lax</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>VH</given-names>
+            </name>
+            <name>
+              <surname>Radford</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Broad</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Watt</surname>
+              <given-names>FM</given-names>
+            </name>
+            <name>
+              <surname>Rowles</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Croft</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Olson</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Hotchin</surname>
+              <given-names>NA</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Keratinocyte differentiation is regulated by the Rho and ROCK signaling pathway</article-title>
+          <source>Curr Biol</source>
+          <volume>13</volume>
+          <fpage>2185</fpage>
+          <lpage>2189</lpage>
+          <pub-id pub-id-type="pmid">14680635</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib26">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mertens</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Rygiel</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Olivo</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>van der Kammen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Collard</surname>
+              <given-names>JG</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>The Rac activator Tiam1 controls tight junction biogenesis in keratinocytes through binding to and activation of the Par polarity complex</article-title>
+          <source>J Cell Biol</source>
+          <volume>170</volume>
+          <fpage>1029</fpage>
+          <lpage>1037</lpage>
+          <pub-id pub-id-type="pmid">16186252</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib27">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muller</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Williamson</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kolly</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Suter</surname>
+              <given-names>MM</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Outside-in signaling through integrins and cadherins: a central mechanism to control epidermal growth and differentiation</article-title>
+          <source>J Invest Dermatol</source>
+          <volume>128</volume>
+          <fpage>501</fpage>
+          <lpage>516</lpage>
+          <pub-id pub-id-type="pmid">18268536</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib28">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murayama</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kimura</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Tarutani</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tomooka</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Okabe</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Nishida</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Itami</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Katayama</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Nakano</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Akt activation induces epidermal hyperplasia and proliferation of epidermal progenitors</article-title>
+          <source>Oncogene</source>
+          <volume>26</volume>
+          <fpage>4882</fpage>
+          <lpage>4888</lpage>
+          <pub-id pub-id-type="pmid">17297448</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib29">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Niault</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sobczak</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Meissl</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Weitsman</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Piazzolla</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Maurer</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kern</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Ehrenreiter</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hamerl</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Moarefi</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Leung</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Carugo</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Ng</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Baccarini</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>From autoinhibition to inhibition in Trans: the Raf-1 regulatory domain inhibits Rok-alpha kinase activity</article-title>
+          <source>J Cell Biol</source>
+          <volume>187</volume>
+          <fpage>335</fpage>
+          <lpage>342</lpage>
+          <pub-id pub-id-type="pmid">19948477</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib30">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Niault</surname>
+              <given-names>TS</given-names>
+            </name>
+            <name>
+              <surname>Baccarini</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Targets of Raf in tumorigenesis</article-title>
+          <source>Carcinogenesis</source>
+          <volume>31</volume>
+          <fpage>1165</fpage>
+          <lpage>1174</lpage>
+          <pub-id pub-id-type="pmid">20047953</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib31">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oki-Idouchi</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Lorenzo</surname>
+              <given-names>PS</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Transgenic overexpression of RasGRP1 in mouse epidermis results in spontaneous tumors of the skin</article-title>
+          <source>Cancer Res</source>
+          <volume>67</volume>
+          <fpage>276</fpage>
+          <lpage>280</lpage>
+          <pub-id pub-id-type="pmid">17210708</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib32">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pegtel</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Ellenbroek</surname>
+              <given-names>SI</given-names>
+            </name>
+            <name>
+              <surname>Mertens</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>van der Kammen</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>de Rooij</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Collard</surname>
+              <given-names>JG</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>The Par-Tiam1 complex controls persistent migration by stabilizing microtubule-dependent front-rear polarity</article-title>
+          <source>Curr Biol</source>
+          <volume>17</volume>
+          <fpage>1623</fpage>
+          <lpage>1634</lpage>
+          <pub-id pub-id-type="pmid">17825562</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib33">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perez-Moreno</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Pasolli</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Reynolds</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Fuchs</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>p120-catenin mediates inflammatory responses in the skin</article-title>
+          <source>Cell</source>
+          <volume>124</volume>
+          <fpage>631</fpage>
+          <lpage>644</lpage>
+          <pub-id pub-id-type="pmid">16469707</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib34">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Riva</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Lavieille</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Reyt</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Brambilla</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lunardi</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Brambilla</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <year>1995</year>
+          <article-title>Differential c-myc, c-jun, c-raf and p53 expression in squamous cell carcinoma of the head and neck: implication in drug and radioresistance</article-title>
+          <source>Eur J Cancer B Oral Oncol</source>
+          <volume>31</volume>
+          <fpage>384</fpage>
+          <lpage>391</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="bib35">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rygiel</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Mertens</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Strumane</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>van der Kammen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Collard</surname>
+              <given-names>JG</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>The Rac activator Tiam1 prevents keratinocyte apoptosis by controlling ROS-mediated ERK phosphorylation</article-title>
+          <source>J Cell Sci</source>
+          <volume>121</volume>
+          <fpage>1183</fpage>
+          <lpage>1192</lpage>
+          <pub-id pub-id-type="pmid">18349077</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib36">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scholl</surname>
+              <given-names>FA</given-names>
+            </name>
+            <name>
+              <surname>Dumesic</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Barragan</surname>
+              <given-names>DI</given-names>
+            </name>
+            <name>
+              <surname>Charron</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Khavari</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <year>2009a</year>
+          <article-title>Mek1/2 gene dosage determines tissue response to oncogenic Ras signaling in the skin</article-title>
+          <source>Oncogene</source>
+          <volume>28</volume>
+          <fpage>1485</fpage>
+          <lpage>1495</lpage>
+          <pub-id pub-id-type="pmid">19198628</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib37">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scholl</surname>
+              <given-names>FA</given-names>
+            </name>
+            <name>
+              <surname>Dumesic</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Barragan</surname>
+              <given-names>DI</given-names>
+            </name>
+            <name>
+              <surname>Harada</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Bissonauth</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Charron</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Khavari</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Mek1/2 MAPK kinases are essential for Mammalian development, homeostasis, and Raf-induced hyperplasia</article-title>
+          <source>Dev Cell</source>
+          <volume>12</volume>
+          <fpage>615</fpage>
+          <lpage>629</lpage>
+          <pub-id pub-id-type="pmid">17419998</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib38">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scholl</surname>
+              <given-names>FA</given-names>
+            </name>
+            <name>
+              <surname>Dumesic</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Barragan</surname>
+              <given-names>DI</given-names>
+            </name>
+            <name>
+              <surname>Harada</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Charron</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Khavari</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <year>2009b</year>
+          <article-title>Selective role for Mek1 but not Mek2 in the induction of epidermal neoplasia</article-title>
+          <source>Cancer Res</source>
+          <volume>69</volume>
+          <fpage>3772</fpage>
+          <lpage>3778</lpage>
+          <pub-id pub-id-type="pmid">19383924</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib39">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sibilia</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fleischmann</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Behrens</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Stingl</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Carroll</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Watt</surname>
+              <given-names>FM</given-names>
+            </name>
+            <name>
+              <surname>Schlessinger</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wagner</surname>
+              <given-names>EF</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>The EGF receptor provides an essential survival signal for SOS- dependent skin tumor development</article-title>
+          <source>Cell</source>
+          <volume>102</volume>
+          <fpage>211</fpage>
+          <lpage>220</lpage>
+          <pub-id pub-id-type="pmid">10943841</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib40">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vasioukhin</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Bauer</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Degenstein</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wise</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Fuchs</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>Hyperproliferation and defects in epithelial polarity upon conditional ablation of alpha-catenin in skin</article-title>
+          <source>Cell</source>
+          <volume>104</volume>
+          <fpage>605</fpage>
+          <lpage>617</lpage>
+          <pub-id pub-id-type="pmid">11239416</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib41">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vitale-Cross</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Amornphimoltham</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Fisher</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Molinolo</surname>
+              <given-names>AA</given-names>
+            </name>
+            <name>
+              <surname>Gutkind</surname>
+              <given-names>JS</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Conditional expression of K-ras in an epithelial compartment that includes the stem cells is sufficient to promote squamous cell carcinogenesis</article-title>
+          <source>Cancer Res</source>
+          <volume>64</volume>
+          <fpage>8804</fpage>
+          <lpage>8807</lpage>
+          <pub-id pub-id-type="pmid">15604235</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib42">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Pedersen</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Basse</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lefever</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Peyrollier</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kapoor</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mei</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Karlsson</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Chrostek-Grashoff</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Brakebusch</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Rac1 is crucial for Ras-dependent skin tumor formation by controlling Pak1-Mek-Erk hyperactivation and hyperproliferation <italic>in vivo</italic></article-title>
+          <source>Oncogene</source>
+          <volume>29</volume>
+          <fpage>3362</fpage>
+          <lpage>3373</lpage>
+          <pub-id pub-id-type="pmid">20383193</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib43">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>ZY</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Acute promyelocytic leukemia: from highly fatal to highly curable</article-title>
+          <source>Blood</source>
+          <volume>111</volume>
+          <fpage>2505</fpage>
+          <lpage>2515</lpage>
+          <pub-id pub-id-type="pmid">18299451</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib44">
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><name><surname>Wimmer</surname><given-names>R</given-names></name><name><surname>Baccarini</surname><given-names>M</given-names></name></person-group><year>2010</year><article-title>Partner exchange: proteinâprotein interactions in the Raf pathway</article-title><source>Trends Biochem Sci</source>e-pub ahead of print 9 July 2010; doi:<pub-id pub-id-type="doi">10.1016/j.tibs.2010.06.001</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib45">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamazaki</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Nakano</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Hayakari</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mayama</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tsuchida</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Differentiation induction of human keratinocytes by phosphatidylethanolamine-binding protein</article-title>
+          <source>J Biol Chem</source>
+          <volume>279</volume>
+          <fpage>32191</fpage>
+          <lpage>32195</lpage>
+          <pub-id pub-id-type="pmid">15155742</pub-id>
+        </mixed-citation>
+      </ref>
+      <ref id="bib46">
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zaravinos</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kanellou</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Baritaki</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bonavida</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Spandidos</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>BRAF and RKIP are significantly decreased in cutaneous squamous cell carcinoma</article-title>
+          <source>Cell Cycle</source>
+          <volume>8</volume>
+          <fpage>1402</fpage>
+          <lpage>1408</lpage>
+          <pub-id pub-id-type="pmid">19342899</pub-id>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="fig1">
+      <label>Figure 1</label>
+      <caption>
+        <p>Ras pathways in the epidermis. (<bold>A</bold>) Schematic representation of mammalian skin. The skin consists of subcutaneous tissue, dermis and epidermis. Hair follicles and sebaceous glands invaginate into the dermis. (<bold>B</bold>) Structure of the epidermis. The epidermis is mainly composed of keratinocytes in various stages of differentiation. We distinguish four strata: the <italic>stratum basale</italic>, comprising the proliferating, undifferentiated basal keratinocytes; the <italic>strata spinosum</italic> and <italic>granulosum</italic>, containing differentiating keratinocytes; and the <italic>stratum corneum</italic>, with the terminally differentiated, enucleated corneocytes that are continuously removed and replaced by cells from the differentiating strata below. (<bold>C</bold>) The Ras pathway in the epidermis. Ras can be activated downstream of the EGFR and integrins, and can be inhibited by adhesion molecules, such as E-cadherins, inducing growth arrest. With its host of downstream effectors, Ras can mediate survival, proliferation, and can inhibit differentiation (see text for details). Arrows denote induction, blunt arrows indicate inhibition. Arrows pointing upwards signify increase, and arrows pointing downwards symbolise decrease.</p>
+      </caption>
+      <graphic xlink:href="6606009f1"/>
+    </fig>
+    <fig id="fig2">
+      <label>Figure 2</label>
+      <caption>
+        <p>Ras-driven tumours are addicted to Raf-1. Ras-driven tumours, induced by the keratinocyte-restricted expression of membrane-tethered SOS (SOS-F transgenic mice; red, irregularly shaped tail) regress upon keratinocyte-specific ablation of Raf-1, indicating an essential role of this molecule in tumour maintenance. Downstream of Ras, Raf-1 is involved in at least two pathways: the canonical Raf/MEK/ERK pathway, where Raf-1 acts as an activator, likely in the context of a Ras-induced heterodimer with B-Raf; and the Rok-<italic>Î±</italic> pathway, where Raf-1 acts as an inhibitor via direct proteinâprotein interaction (left panel). Upon Raf-1 ablation (right panel; Raf-1 crossed out), ERK phosphorylation continues undisturbed, likely sustained by B-Raf; Rok-<italic>Î±</italic>, however, is strongly activated, leading to increased differentiation, and to tumour regression.</p>
+      </caption>
+      <graphic xlink:href="6606009f2"/>
+    </fig>
+  </floats-group>
+</article>
+
+</metadata></record></GetRecord></OAI-PMH>
