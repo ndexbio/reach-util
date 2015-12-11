@@ -58,7 +58,7 @@ def reach_fries_test_query():
     file.close()
     return data
 
-@route('/test/loadpmcid/<pmc_id>', method='GET')
+@route('/rembel/process-pmcid/<pmc_id>', method='GET')
 def load_pmcid(pmc_id):
     # pmc_id = 'PMC3031885'
     current_directory = dirname(abspath(__file__))
@@ -91,11 +91,11 @@ def load_pmcid(pmc_id):
 
     out.close()
 
-    ndex = nc.Ndex(host='http://dev2.ndexbio.org/', username='test', password='test')
+    ndex = nc.Ndex(host='http://test13.ndexbio.org/', username='rembel', password='rembel')
 
     cx_stream = open(output_file_path, 'rb')
     ndex_uuid = ndex.save_cx_stream_as_new_network(cx_stream)
 
     return ndex_uuid
 
-run(app, host='localhost', port=5603)
+run(app, host='0.0.0.0', port=8080)
