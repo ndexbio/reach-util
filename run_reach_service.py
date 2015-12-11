@@ -91,7 +91,7 @@ def load_pmcid(pmc_id):
 
     out.close()
 
-    ndex = nc.Ndex(host='http://test13.ndexbio.org/', username='rembel', password='rembel')
+    ndex = nc.Ndex(host='http://test13.ndexbio.org', username='rembel', password='rembel')
 
     cx_stream = open(output_file_path, 'rb')
     ndex_uuid = ndex.save_cx_stream_as_new_network(cx_stream)
