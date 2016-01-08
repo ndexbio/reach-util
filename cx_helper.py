@@ -96,6 +96,16 @@ class CXHelper:
             })
         return self.support_id_counter
 
+    def emit_cx_edge_w_id(self, id, source_id, target_id, interaction ):
+        body = {
+            '@id': id,
+            's': source_id,
+            't': target_id,
+            'i': interaction
+        }
+        self.emit_cx_fragment('edges', body)
+        return id
+
     def emit_cx_edge(self, source_id, target_id, interaction):
         self.edge_id_counter += 1
         self.emit_cx_fragment(
@@ -107,13 +117,35 @@ class CXHelper:
             })
         return self.edge_id_counter
 
-    def emit_cx_edge_attribute(self, edge_id, name, value):
-        self.emit_cx_fragment(
-            'edgeAttributes', {
-                'po': edge_id,
-                'n': name,
-                'v': value
-            })
+    def emit_cx_network_attribute(self, name, value, att_type=None):
+        body = {
+            'n': name,
+            'v': value
+        }
+        if type:
+            body['t'] = att_type
+        self.emit_cx_fragment('networkAttributes', body)
+
+
+    def emit_cx_edge_attribute(self, edge_id, name, value, att_type=None):
+        body = {
+            'po': edge_id,
+            'n': name,
+            'v': value
+        }
+        if type:
+            body['t'] = att_type
+        self.emit_cx_fragment('edgeAttributes', body)
+
+    def emit_cx_node_w_id(self, id, name, represents ):
+        body = {
+            '@id': id,
+            'n': name,
+        }
+        if represents:
+            body['r'] = represents
+        self.emit_cx_fragment('nodes', body)
+        return id
 
     def emit_cx_node(self, node_name):
         self.node_id_counter += 1
