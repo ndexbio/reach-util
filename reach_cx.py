@@ -84,6 +84,18 @@ class ReachCX:
                 self.entity_name_to_node_id_map[name] = node_id
                 function_term['po'] = node_id
                 function_term_id = self.cx.emit_cx_function_term(function_term)
+                if 'type' in entity:
+                    self.cx.emit_cx_node_attribute(node_id, 'type', entity["type"])
+                if 'xrefs' in entity:
+                    aliases = []
+                    for xref in entity['xrefs']:
+                        ns = xref['namespace']
+                        id = xref['id']
+                        if id.lower().startswith(ns.lower()):
+                            aliases.append(id)
+                        else:
+                            aliases.append(ns + ":" + id)
+                    self.cx.emit_cx_node_attribute(node_id, "alias", aliases, "list_of_string")
             frame_id = entity.get('frame_id')
             self.reach_entity_id_to_node_id_map[frame_id] = node_id
 

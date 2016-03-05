@@ -40,8 +40,9 @@ cx.fries_to_cx(fries_json,{
 
 out.close()
 
-ndex = nc.Ndex(host='http://dev2.ndexbio.org/', username='test', password='test')
+ndex = nc.Ndex(host='http://dev2.ndexbio.org', username='test', password='test')
 
+ndex.set_debug_mode(True)
 cx_stream = open(output_file_path, 'rb')
 ndex_uuid = ndex.save_cx_stream_as_new_network(cx_stream)
 

@@ -123,7 +123,7 @@ class CXHelper:
             'v': value
         }
         if type:
-            body['t'] = att_type
+            body['d'] = att_type
         self.emit_cx_fragment('networkAttributes', body)
 
 
@@ -134,7 +134,7 @@ class CXHelper:
             'v': value
         }
         if type:
-            body['t'] = att_type
+            body['d'] = att_type
         self.emit_cx_fragment('edgeAttributes', body)
 
     def emit_cx_node_w_id(self, id, name, represents ):
@@ -162,8 +162,8 @@ class CXHelper:
             'n': name,
             'v': value
         }
-        if type:
-            body['t'] = att_type
+        if att_type:
+            body['d'] = att_type
 
         self.emit_cx_fragment('nodeAttributes', body)
 
